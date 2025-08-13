@@ -1,1 +1,0 @@
-pragma solidity ^0.8.0; contract Test { string public greet = "Hello via webhook"; }
